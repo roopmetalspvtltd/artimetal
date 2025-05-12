@@ -252,8 +252,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   };
 
-  setupFormSubmission("contactForm", "https://formspree.io/f/xvgkooly");
-  setupFormSubmission("quoteForm", "https://formspree.io/f/xkgjnnyy");
+  setupFormSubmission("contactForm", "https://formspree.io/f/mwporknn");
+  setupFormSubmission("quoteForm", "https://formspree.io/f/meogrqlo");
 });
 
 /* document.getElementById("contactForm").addEventListener("submit", async function (event) {
